@@ -1,0 +1,5 @@
+/Users/jjberg/Github/learningGithubActions/obj/Debug/net7.0/learningGithubActions.csproj.AssemblyReference.cache
+/Users/jjberg/Github/learningGithubActions/obj/Debug/net7.0/learningGithubActions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/learningGithubActions/obj/Debug/net7.0/learningGithubActions.AssemblyInfoInputs.cache
+/Users/jjberg/Github/learningGithubActions/obj/Debug/net7.0/learningGithubActions.AssemblyInfo.cs
+/Users/jjberg/Github/learningGithubActions/obj/Debug/net7.0/learningGithubActions.csproj.CoreCompileInputs.cache
